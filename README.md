@@ -2,7 +2,7 @@
 Repository contains supplementary material to the VI-PANN paper including model checkpoints
 
 # Checkpoints
-The AudioSet deterministic and flipout checkpoints described in [1] are provided in the `checkpoints` directory. An example of how to utilize the checkpoints for transfer-learning purposes is provided in `transfer_learning.py`. 
+The AudioSet deterministic and flipout checkpoints described in [1] are provided in the `checkpoints` directory. An example of how to utilize the checkpoints for transfer-learning purposes is provided in `transfer_learning.py`. The checkpoints are large, so [git-lfs](https://git-lfs.com/) will need to be installed to obtain them.
 
 # Cite
 [1] John Fischer, Marko Orescanin, and Eric Eckstrand. "VI-PANN: Harnessing Transfer Learning and Uncertainty-Aware Variational Inference for Improved Generalization in Audio Pattern Recognition." IEEE Access (2024).
